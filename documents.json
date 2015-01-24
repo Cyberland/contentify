@@ -49,5 +49,10 @@
       }
     },
     "test2": {}
+  },
+  "test.md": {
+    "name": "Test",
+    "created": 1422059062278,
+    "path": ""
   }
 }
